@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+              <rss version="0.91">
+              <channel>
+              <title>Susan Davis's music playlist</title>
+              <description>Susan Davis's music playlist - created and exported via The Music Room TM</description>
+              <language>en-us</language><item>
+                       <songid>US2HK1448715</songid>
+                       <songtitle>Take Me To The River</songtitle>
+                       <artist>Al Green</artist>
+                       <genre>Soul</genre>
+                       <link>https://www.amazon.com/Take-Me-to-the-River/dp/B01MSN0NGL</link> 
+                       <releaseyear>1974</releaseyear>
+                       </item><item>
+                       <songid>USUM71514125</songid>
+                       <songtitle>Dystopia</songtitle>
+                       <artist>Megadeth</artist>
+                       <genre>Metal</genre>
+                       <link>https://www.amazon.com/dp/B015U2LP1K</link> 
+                       <releaseyear>2016</releaseyear>
+                       </item></channel>
+                   </rss>

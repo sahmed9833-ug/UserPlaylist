@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+                <rss version="0.91">
+                <channel>
+                <title>Music Playlist Sharing</title>
+                <description>Share music playlists - import from other applications and export them</description>
+                <language>en-us</language><item>
+                     <songid>GBAAM8300001</songid>
+                     <songtitle>Every Breath You Take</songtitle>
+                     <artist>The Police</artist>
+                     <genre>Pop/Rock</genre>
+                     <link>https://www.amazon.com/Every-Breath-You-Take/dp/B000WU0NVO</link> 
+                     <releaseyear>1983</releaseyear>
+                     </item><item>
+                     <songid>US2HK1448715</songid>
+                     <songtitle>Take Me To The River</songtitle>
+                     <artist>Al Green</artist>
+                     <genre>Soul</genre>
+                     <link>https://www.amazon.com/Take-Me-to-the-River/dp/B01MSN0NGL</link> 
+                     <releaseyear>1974</releaseyear>
+                     </item></channel>
+               </rss>
