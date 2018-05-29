@@ -7,8 +7,8 @@
 
 //database details
 $hostname = "localhost";
-$username = "unn_w16024782";
-$password = "OTY1Q0Y2";
-$databaseName = "unn_w16024782";
+$username = "username";
+$password = "passwaord";
+$databaseName = "databaseName";
 ?>
 
